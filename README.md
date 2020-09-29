@@ -4,3 +4,4 @@
 - 💬 Ask me about React, Javascript, HTML, CSS...
 - 📫 How to reach me: thomasledoux1@gmail.com
 - 😄 Pronouns: Him/He
+- 💻 Personal website: https://www.thomasledoux.be
